@@ -14,9 +14,13 @@
 ## Matplotlib
 
 - [Customizing Ticks](https://jakevdp.github.io/PythonDataScienceHandbook/04.10-customizing-ticks.html)
+   - [Custom tick labels](https://matplotlib.org/examples/pylab_examples/custom_ticker1.html)
+   - [matplotlib.axes.Axes.tick_params](https://matplotlib.org/api/_as_gen/matplotlib.axes.Axes.tick_params.html)
 - [Bar chart annotations](http://robertmitchellv.com/blog-bar-chart-annotations-pandas-mpl.html)
 - [Choosing Colormaps](https://matplotlib.org/users/colormaps.html)
 - [Colors and markers cheat sheet](https://python-graph-gallery.com/cheat-sheets/)
+- [Grid lines annotations](https://stackoverflow.com/questions/46208415/matplotlib-labels-on-projection-plot-grid-lines-similar-to-clabel)
+- 
 
 ## Pandas 
 
