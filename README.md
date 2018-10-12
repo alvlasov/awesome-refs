@@ -9,3 +9,11 @@
 ## NN
 
 - [Dark Knowledge Distilled from Neural Network](https://www.kdnuggets.com/2015/05/dark-knowledge-neural-network.html)
+
+
+## Matplotlib
+
+- [Customizing Ticks](https://jakevdp.github.io/PythonDataScienceHandbook/04.10-customizing-ticks.html)
+- [Bar chart annotations](http://robertmitchellv.com/blog-bar-chart-annotations-pandas-mpl.html)
+- [Choosing Colormaps](https://matplotlib.org/users/colormaps.html)
+- [Colors and markers cheat sheet](https://python-graph-gallery.com/cheat-sheets/)
