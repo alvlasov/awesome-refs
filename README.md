@@ -17,3 +17,7 @@
 - [Bar chart annotations](http://robertmitchellv.com/blog-bar-chart-annotations-pandas-mpl.html)
 - [Choosing Colormaps](https://matplotlib.org/users/colormaps.html)
 - [Colors and markers cheat sheet](https://python-graph-gallery.com/cheat-sheets/)
+
+## Pandas 
+
+- [Available display options](https://pandas.pydata.org/pandas-docs/stable/options.html#available-options)
