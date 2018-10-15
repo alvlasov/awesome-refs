@@ -26,3 +26,4 @@
 ## Pandas 
 
 - [Available display options](https://pandas.pydata.org/pandas-docs/stable/options.html#available-options)
+- [Writing multiple dataframes to XLS](https://xlsxwriter.readthedocs.io/example_pandas_multiple.html)
