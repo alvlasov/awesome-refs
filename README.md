@@ -12,6 +12,10 @@
 - [Dark Knowledge Distilled from Neural Network](https://www.kdnuggets.com/2015/05/dark-knowledge-neural-network.html)
 
 
+## General
+
+- [Learning Scientific Programming with Python](https://scipython.com/)
+
 ## Matplotlib
 
 - [Customizing Ticks](https://jakevdp.github.io/PythonDataScienceHandbook/04.10-customizing-ticks.html)
@@ -21,7 +25,7 @@
 - [Choosing Colormaps](https://matplotlib.org/users/colormaps.html)
 - [Colors and markers cheat sheet](https://python-graph-gallery.com/cheat-sheets/)
 - [Grid lines annotations](https://stackoverflow.com/questions/46208415/matplotlib-labels-on-projection-plot-grid-lines-similar-to-clabel)
-- 
+
 
 ## Pandas 
 
