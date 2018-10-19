@@ -17,6 +17,7 @@
 
 - [Learning Scientific Programming with Python](https://scipython.com/)
 - [Data Visualization Applications with Dash and Python](https://pythonprogramming.net/data-visualization-application-dash-python-tutorial-introduction/)
+- [A quick introduction to `concurrent.futures` module](http://masnun.com/2016/03/29/python-a-quick-introduction-to-the-concurrent-futures-module.html)
 
 ## Matplotlib
 
