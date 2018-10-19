@@ -16,6 +16,7 @@
 ## General
 
 - [Learning Scientific Programming with Python](https://scipython.com/)
+- [Data Visualization Applications with Dash and Python](https://pythonprogramming.net/data-visualization-application-dash-python-tutorial-introduction/)
 
 ## Matplotlib
 
