@@ -18,6 +18,7 @@
 - [Markdown Here Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet)
 - [Qgrid: Widget for intuitive scrolling, sorting, filtering and editing of Pandas DataFrames](https://qgrid.readthedocs.io/en/latest/)
 - [Making Git and Jupyter Notebooks play nice](http://timstaley.co.uk/posts/making-git-and-jupyter-notebooks-play-nice/)
+- [Parallel computations in Jupyter Notebook](https://github.com/alexanderkuk/parallel-cell)
 
 
 ## Matplotlib
