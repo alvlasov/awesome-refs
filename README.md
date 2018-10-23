@@ -1,5 +1,16 @@
 # awesome-refs
 
+## Git
+
+- [How to link folder from a git repo to another repo](https://stackoverflow.com/questions/36554810/how-to-link-folder-from-a-git-repo-to-another-repo)
+
+## General Python
+
+- [Learning Scientific Programming with Python](https://scipython.com/)
+- [Data Visualization Applications with Dash and Python](https://pythonprogramming.net/data-visualization-application-dash-python-tutorial-introduction/)
+- [A quick introduction to `concurrent.futures` module](http://masnun.com/2016/03/29/python-a-quick-introduction-to-the-concurrent-futures-module.html)
+
+
 ## Jupyter
 
 - [How to make polished Jupyter presentations with optional code visibility](http://chris-said.io/2016/02/13/how-to-make-polished-jupyter-presentations-with-optional-code-visibility/)
@@ -8,16 +19,6 @@
 - [Qgrid: Widget for intuitive scrolling, sorting, filtering and editing of Pandas DataFrames](https://qgrid.readthedocs.io/en/latest/)
 - [Making Git and Jupyter Notebooks play nice](http://timstaley.co.uk/posts/making-git-and-jupyter-notebooks-play-nice/)
 
-## NN
-
-- [Dark Knowledge Distilled from Neural Network](https://www.kdnuggets.com/2015/05/dark-knowledge-neural-network.html)
-
-
-## General
-
-- [Learning Scientific Programming with Python](https://scipython.com/)
-- [Data Visualization Applications with Dash and Python](https://pythonprogramming.net/data-visualization-application-dash-python-tutorial-introduction/)
-- [A quick introduction to `concurrent.futures` module](http://masnun.com/2016/03/29/python-a-quick-introduction-to-the-concurrent-futures-module.html)
 
 ## Matplotlib
 
@@ -36,8 +37,18 @@
 - [Writing multiple dataframes to XLS](https://xlsxwriter.readthedocs.io/example_pandas_multiple.html)
 
 
+## NN
+
+- [Dark Knowledge Distilled from Neural Network](https://www.kdnuggets.com/2015/05/dark-knowledge-neural-network.html)
+
+
 ## Hadoop
 
 ### Hive
 
 - [Hive Operators and User-Defined Functions (UDFs)](https://cwiki.apache.org/confluence/display/Hive/LanguageManual+UDF)
+
+
+### Spark
+
+- [A proof of concept asynchronous actions for PySpark using `concurent.futures`](https://github.com/zero323/pyspark-asyncactions)
