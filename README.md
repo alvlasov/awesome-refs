@@ -34,3 +34,10 @@
 
 - [Available display options](https://pandas.pydata.org/pandas-docs/stable/options.html#available-options)
 - [Writing multiple dataframes to XLS](https://xlsxwriter.readthedocs.io/example_pandas_multiple.html)
+
+
+## Hadoop
+
+### Hive
+
+- [Hive Operators and User-Defined Functions (UDFs)](https://cwiki.apache.org/confluence/display/Hive/LanguageManual+UDF)
