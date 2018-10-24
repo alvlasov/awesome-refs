@@ -41,6 +41,7 @@
 ## NN
 
 - [Dark Knowledge Distilled from Neural Network](https://www.kdnuggets.com/2015/05/dark-knowledge-neural-network.html)
+- [A small package to create visualizations of PyTorch execution graphs and traces](https://github.com/szagoruyko/pytorchviz)
 
 
 ## Hadoop
