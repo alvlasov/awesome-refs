@@ -30,6 +30,7 @@
 - [Choosing Colormaps](https://matplotlib.org/users/colormaps.html)
 - [Colors and markers cheat sheet](https://python-graph-gallery.com/cheat-sheets/)
 - [Grid lines annotations](https://stackoverflow.com/questions/46208415/matplotlib-labels-on-projection-plot-grid-lines-similar-to-clabel)
+- [Outlines and shadows](https://matplotlib.org/users/patheffects_guide.html)
 
 
 ## Pandas 
@@ -47,10 +48,13 @@
 ## Hadoop
 
 ### Hive
-
-- [Hive Operators and User-Defined Functions (UDFs)](https://cwiki.apache.org/confluence/display/Hive/LanguageManual+UDF)
+- [Hive Language Manual](https://cwiki.apache.org/confluence/display/Hive/LanguageManual)
+  - [Hive Operators and User-Defined Functions (UDFs)](https://cwiki.apache.org/confluence/display/Hive/LanguageManual+UDF)
+  - [Hive Data Definition Language](https://cwiki.apache.org/confluence/display/Hive/LanguageManual+DDL)
 
 
 ### Spark
 
+- [Spark 2.3.1 Documentation](https://spark.apache.org/docs/2.3.1/)
 - [A proof of concept asynchronous actions for PySpark using `concurent.futures`](https://github.com/zero323/pyspark-asyncactions)
+- [Date formats in Spark](https://docs.oracle.com/javase/tutorial/i18n/format/simpleDateFormat.html)
